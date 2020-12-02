@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9423a211.chunk.css",
+    "main.js": "/static/js/main.c6c85969.chunk.js",
+    "main.js.map": "/static/js/main.c6c85969.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7712ad9f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7712ad9f.js.map",
+    "static/css/2.10a67680.chunk.css": "/static/css/2.10a67680.chunk.css",
+    "static/js/2.850a5e8d.chunk.js": "/static/js/2.850a5e8d.chunk.js",
+    "static/js/2.850a5e8d.chunk.js.map": "/static/js/2.850a5e8d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.10a67680.chunk.css.map": "/static/css/2.10a67680.chunk.css.map",
+    "static/css/main.9423a211.chunk.css.map": "/static/css/main.9423a211.chunk.css.map",
+    "static/js/2.850a5e8d.chunk.js.LICENSE.txt": "/static/js/2.850a5e8d.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/Simple-Line-Icons.85e8c542.eot",
+    "static/media/not_image.c4ba1e76.png": "/static/media/not_image.c4ba1e76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7712ad9f.js",
+    "static/css/2.10a67680.chunk.css",
+    "static/js/2.850a5e8d.chunk.js",
+    "static/css/main.9423a211.chunk.css",
+    "static/js/main.c6c85969.chunk.js"
+  ]
+}
